@@ -15,21 +15,21 @@
 
 ## Показания команды `free -m` в начале
 
-`bash
+```bash
 mvliksakov@LAPTOP-7FJQG9BP:/mnt/c/Users/lixak/hse$ free -m
               total        used        free      shared  buff/cache   available
 Mem:           7612         144        7044           0         423        7235
 Swap:          2048         374        1673
-`
+```
 
 ## Показания команды `free -m` в конце
 
-`basg
+```bash
 mvliksakov@LAPTOP-7FJQG9BP:/mnt/c/Users/lixak/hse$ free -m
               total        used        free      shared  buff/cache   available
 Mem:           7612         241        6945           0         425        7137
 Swap:          2048        2038           9
-`
+```
 
 Ниже приведены ключевые моменты использования оперативной памяти и swap:
 
